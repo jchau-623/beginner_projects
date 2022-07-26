@@ -1,5 +1,5 @@
 import random
-from words import words
+from hangman_game.words import words
 import string
 
 def get_valid_word(words):
